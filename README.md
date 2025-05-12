@@ -2,7 +2,7 @@
 
 ## 📌 Game Overview
 - **Target Platform:** Windows PC
-- **Core Concept:** WindowSocket 라이브러리로 만든 서버에 언리얼 엔진을 합쳐서 만든 포트폴리오
+- **Core Concept:** C++ + WinSock2 기반의 IOCP 네트워크 서버 프레임워크
 
 ## 🛠️ Development Tools
 - **Game Engine:** Unreal Engine 5.2
