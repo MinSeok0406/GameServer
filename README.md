@@ -24,10 +24,13 @@
 - ✅ 비동기 네트워크 통신 구현
 
 ## 📸 Screenshots
+- 서버 연결 안했을 때
 ![서버 연결 안했을 때](https://github.com/user-attachments/assets/286ab0fc-e581-47de-9b92-0ed5c824fbee)
+- 서버 작동한 모습
 ![서버 작동](https://github.com/user-attachments/assets/8ae83a50-b0d1-425e-b67a-aa4dfef481c9)
+- 3명 연결 시도 성공
 ![3명 연결 시도](https://github.com/user-attachments/assets/5bdae48b-2e3b-47f3-a5da-67516ca6d355)
 
-
+- 동기화 테스트
 https://github.com/user-attachments/assets/302388f5-e677-46e3-9e09-ed9ca0ff2d04
 
