@@ -1,19 +1,19 @@
 # 🎮 Project Title: [게임 서버 + 언리얼 엔진 연동]
 
-## 📌 Game Overview
+## 📌 게임 개요
 - **Target Platform:** Windows PC
 - **Core Concept:** C++ + WinSock2 기반의 IOCP 네트워크 서버 프레임워크
 
-## 🛠️ Development Tools
+## 🛠️ 개발 툴
 - **Game Engine:** Unreal Engine 5.2
 - **Development Language:** C/C++
 - **Version Control:** Git + GitHub
 
-## ⏳ Development Timeline
+## ⏳ 개발 기간
 - **Start Date:** 2024-12 ~ 2025-03
 - **Total Duration:** 3 months
 
-## 👨‍👩‍👦 Development Team
+## 👨‍👩‍👦 개발원
 | Name      | Role              | GitHub                                 |
 |-----------|-------------------|----------------------------------------|
 | 장민석     | Client + Server Programmer | [hen0406@naver.com](https://github.com/MinSeok0406) |
@@ -31,7 +31,7 @@
 | `SocketUtils`, `LockQueue`     | 유틸리티 함수 및 멀티스레드 큐 |
 | `Types`, `CoreMacro`, `CoreGlobal` | 전역 타입 정의 및 설정 |
 
-## 🎯 Features
+## 🎯 기능 요약
 - ✅ IOCP 기반 비동기 TCP 통신
 - ✅ 비동기 네트워크 통신 구현
 - ✅ Unreal Engine 클라이언트 연동 고려 설계
@@ -42,7 +42,7 @@
 - 📊 실시간 로깅 및 모니터링 시스템 도입
 - 🌐 느린 빌드 속도와 메모리 과부화를 방지하기 위해 C++20 Module 도입 설
 
-## 📸 Screenshots
+## 📸 스크린샷
 - 서버 연결 안했을 때
 ![서버 연결 안했을 때](https://github.com/user-attachments/assets/286ab0fc-e581-47de-9b92-0ed5c824fbee)
 - 서버 작동한 모습
