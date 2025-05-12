@@ -17,7 +17,7 @@
 ## 👨‍👩‍👦 Development Team
 | Name      | Role              | GitHub                                 |
 |-----------|-------------------|----------------------------------------|
-| 장민석     | Client + Server Programmer | [@hen0406@naver.com](https://github.com/MinSeok0406) |
+| 장민석     | Client + Server Programmer | [hen0406@naver.com](https://github.com/MinSeok0406) |
 
 ## 🎯 Features
 - ✅ 10명 동시접속 테스트 성공 (IOCP 서버 기반)
