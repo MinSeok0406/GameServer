@@ -2,7 +2,6 @@
 
 ## 📌 Game Overview
 - **Target Platform:** Windows PC
-- **Perspective:** Third-Person
 - **Core Concept:** WindowSocket 라이브러리로 만든 서버에 언리얼 엔진을 합쳐서 만든 포트폴리오
 
 ## 🛠️ Development Tools
@@ -11,8 +10,8 @@
 - **Version Control:** Git + GitHub
 
 ## ⏳ Development Timeline
-- **Start Date:** 2025-01 ~ 2025-03
-- **Total Duration:** 2 months
+- **Start Date:** 2024-12 ~ 2025-03
+- **Total Duration:** 4 months
 
 ## 👨‍👩‍👦 Development Team
 | Name      | Role              | GitHub                                 |
