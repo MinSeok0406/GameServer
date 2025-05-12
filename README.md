@@ -25,9 +25,3 @@
 
 ## 📸 Screenshots
 > 여기에 게임 이미지나 시연 영상 GIF를 삽입하세요 (예: `/images/gameplay.gif`)
-
-## 📝 Installation (Optional)
-```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
-# Unity 프로젝트 폴더 열기
