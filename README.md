@@ -11,7 +11,7 @@
 
 ## ⏳ Development Timeline
 - **Start Date:** 2024-12 ~ 2025-03
-- **Total Duration:** 4 months
+- **Total Duration:** 3 months
 
 ## 👨‍👩‍👦 Development Team
 | Name      | Role              | GitHub                                 |
