@@ -18,7 +18,16 @@
 |-----------|-------------------|----------------------------------------|
 | 장민석     | Client + Server Programmer | [hen0406@naver.com](https://github.com/MinSeok0406) |
 
-## 🧩 주요 모듈 구성
+🧩 주요 모듈 구성 (GameServer)
+모듈 이름	설명
+GameServer	프로젝트의 진입점(Main 함수)이며 서버를 초기화하고 실행
+GameSession, GameSessionManager	클라이언트 세션 관리 및 연결 상태 유지
+ServerPacketHandler	수신된 패킷을 분기하고 핸들링하는 핵심 로직
+Room	유저 간 상호작용이 발생하는 공간으로, 룸/파티/매치 등의 개념 구현
+ObjectUtils	게임 오브젝트 생성 및 유틸리티 처리
+Protocol.pb, Struct.pb, Enum.pb	protobuf로 정의된 메시지 구조로 클라이언트와 통신
+
+## 🧩 주요 모듈 구성(ServerCore)
 
 | 모듈 이름              | 설명 |
 |------------------------|------|
