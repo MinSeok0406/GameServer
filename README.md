@@ -44,6 +44,16 @@
 | `SocketUtils`, `LockQueue`     | 유틸리티 함수 및 멀티스레드 큐 |
 | `Types`, `CoreMacro`, `CoreGlobal` | 전역 타입 정의 및 설정 |
 
+## 🧩 언리얼 엔진 프로젝트 구성
+| 모듈 이름                              | 설명 |
+|---------------------------------------|------|
+| `S1GameInstance`                      | 서버와의 TCP 연결 및 세션 관리를 담당하는 진입 지점 |
+| `S1MyPlayer`                          | 플레이어 입력을 감지하고 서버로 명령을 전송 |
+| `S1GameModeBase`                      | 게임 모드 설정과 월드 초기화 처리 |
+| `ClientPacketHandler`                | 서버로부터 수신된 protobuf 메시지를 분기 처리 |
+| `ProtobufCore`                        | Google Protocol Buffers 런타임 및 `.proto` 메시지 정의 포함 |
+| `Protocol.pb`, `Struct.pb`, `Enum.pb`| 서버와 통신하는 메시지 형식을 정의한 protobuf 코드 |
+
 ## 🎯 기능 요약
 - ✅ IOCP 기반 비동기 TCP 통신
 - ✅ 비동기 네트워크 통신 구현
