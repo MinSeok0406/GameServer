@@ -55,20 +55,13 @@
 | `Protocol.pb`, `Struct.pb`, `Enum.pb`| 서버와 통신하는 메시지 형식을 정의한 protobuf 코드 |
 
 ## 🔗 클라이언트-서버 통신 흐름
-[플레이어 입력]
-    ↓
-[S1MyPlayer.cpp]
-    ↓
-[Protobuf 메시지 생성]
-    ↓
-[소켓 송신 (S1GameInstance)]
-    ↓
-[ServerCore 기반 C++ 서버 수신 및 처리]
-    ↓
-[응답 메시지 수신]
-    ↓
-[ClientPacketHandler.cpp]
-    ↓
+[플레이어 입력] -> 
+[S1MyPlayer.cpp] ->
+[Protobuf 메시지 생성] ->
+[소켓 송신 (S1GameInstance)] ->
+[ServerCore 기반 C++ 서버 수신 및 처리] ->
+[응답 메시지 수신] ->
+[ClientPacketHandler.cpp] ->
 [Unreal 내부 상태 업데이트]
 
 ## 🎯 기능 요약
