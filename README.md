@@ -76,7 +76,7 @@
 - 🌐 느린 빌드 속도와 메모리 과부화를 방지하기 위해 C++20 Module 도입 설계
 
 ## 🔍 기술 블로그
-[서버](https://velog.io/@minseok0406/MMO-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EC%88%A0-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4)
+[서버](https://velog.io/@minseok0406/MMO-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EC%88%A0-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4) <br>
 [클라이언트](https://velog.io/@minseok0406/MMO-%EA%B2%8C%EC%9E%84-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EC%88%A0-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8)
 
 ## 📸 스크린샷
